@@ -1,5 +1,5 @@
-// Zentrale Platzhalter für sichtbare Unternehmensdaten.
-// Später nur diese Werte ändern, dann werden Header/Footer/Kontaktbereiche automatisch aktualisiert.
+// Zentrale sichtbare Unternehmensdaten für die Webseite.
+// Vor dem Livegang hier echte Daten eintragen. Alle Bereiche mit data-config werden automatisch aktualisiert.
 window.siteConfig = {
   companyName: "Deppmeyer Workflow Solutions",
   shortName: "Deppmeyer",
